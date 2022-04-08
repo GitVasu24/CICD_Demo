@@ -19,3 +19,5 @@ print(c)
 # COMMAND ----------
 
 # MAGIC %sql select * from abc
+# MAGIC 
+# MAGIC print("hello")
