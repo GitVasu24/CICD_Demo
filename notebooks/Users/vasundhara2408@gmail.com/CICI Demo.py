@@ -14,3 +14,7 @@ print(c)
 
 # COMMAND ----------
 
+# MAGIC %md #Yeyy it worked
+
+# COMMAND ----------
+
