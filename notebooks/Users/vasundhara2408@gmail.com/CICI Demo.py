@@ -18,3 +18,4 @@ print(c)
 
 # COMMAND ----------
 
+# MAGIC %sql select * from abc
