@@ -7,7 +7,7 @@
 
 # COMMAND ----------
 
-a=106
+a=185
 b=200
 c=a+b
 print(c)
@@ -21,3 +21,11 @@ print(c)
 # MAGIC %sql select * from abc
 # MAGIC 
 # MAGIC print("hello")
+
+# COMMAND ----------
+
+# MAGIC %md #One new line added
+
+# COMMAND ----------
+
+select * from test
